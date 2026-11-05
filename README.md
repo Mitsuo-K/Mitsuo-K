@@ -30,6 +30,16 @@ Most of my professional code lives in private client repositories. The public pr
 
 Desenvolvedor com mais de 5 anos de experiência, com foco em Android nativo e desenvolvimento full stack: Kotlin e Jetpack Compose para mobile, Android TV e Fire OS, e back-end em Kotlin (Ktor) e C#/.NET com front-end em React e TypeScript. Hoje sou o único desenvolvedor de uma plataforma web para a área da saúde.
 
+## Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mitsuo-K/Mitsuo-K/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mitsuo-K/Mitsuo-K/output/github-snake.svg" />
+    <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/Mitsuo-K/Mitsuo-K/output/github-snake.svg" />
+  </picture>
+</div>
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/andremk) · mitsuo.kubo01@gmail.com
